@@ -1,0 +1,132 @@
+========================================
+  WELCOME TO CINEMA BOOKING SYSTEM
+========================================
+           MAIN MENU
+1. View Available Seats
+2. Book Tickets
+3. Cancel Booking
+4. View Booking Details
+5. View Statistics
+6. Exit
+
+Enter your choice: 1
+         AVAILABLE SEATS
+
+Seat Layout (Rows 5 x Columns 8):
+    1  2  3  4  5  6  7  8  9 10 
+    -----------------------------
+Row 1 | □  □  □  □  □  □  □  □  
+Row 2 | □  □  □  □  □  □  □  □  
+Row 3 | □  □  □  □  □  □  □  □  
+Row 4 | □  □  □  □  □  □  □  □  
+Row 5 | □  □  □  □  □  □  □  □  
+
+Legend: □ = Available, ■ = Booked
+
+Available seats: 40
+           MAIN MENU
+1. View Available Seats
+2. Book Tickets
+3. Cancel Booking
+4. View Booking Details
+5. View Statistics
+6. Exit
+
+Enter your choice: 2
+           BOOK TICKETS
+
+Seat Layout (Rows 5 x Columns 8):
+    1  2  3  4  5  6  7  8  9 10 
+    -----------------------------------
+Row 1 | □  □  □  □  □  □  □  □  
+Row 2 | □  □  □  □  □  □  □  □  
+Row 3 | □  □  □  □  □  □  □  □  
+Row 4 | □  □  □  □  □  □  □  □  
+Row 5 | □  □  □  □  □  □  □  □  
+
+Legend: □ = Available, ■ = Booked
+
+Enter your name: vamshi
+Enter row number (1-5): 5
+Enter column number (1-8): 7
+Enter number of tickets: 1
+         BOOKING CONFIRMED!
+
+
+✓ Booking ID: BK0001
+✓ Customer: vamshi
+✓ Seat: Row 5, Column 7
+✓ Tickets: 1
+✓ Total Amount: $10.0
+✓ Status: Confirmed
+           MAIN MENU
+1. View Available Seats
+2. Book Tickets
+3. Cancel Booking
+4. View Booking Details
+5. View Statistics
+6. Exit
+
+Enter your choice: 1
+         AVAILABLE SEATS
+
+Seat Layout (Rows 5 x Columns 8):
+    1  2  3  4  5  6  7  8  9 10
+    -----------------------------------
+Row 1 | □  □  □  □  □  □  □  □  
+Row 2 | □  □  □  □  □  □  □  □  
+Row 3 | □  □  □  □  □  □  □  □  
+Row 4 | □  □  □  □  □  □  □  □  
+Row 5 | □  □  □  □  □  □  ■  □  
+
+Legend: □ = Available, ■ = Booked
+
+Available seats: 39
+           MAIN MENU
+1. View Available Seats
+2. Book Tickets
+3. Cancel Booking
+4. View Booking Details
+5. View Statistics
+6. Exit
+
+Enter your choice: 4
+         BOOKING DETAILS
+Enter Booking ID: BK0001
+
+Booking ID: BK0001 | Customer: vamshi | Seat: Row 5, Col 7 | Tickets: 1 | Total: $10.00
+           MAIN MENU
+1. View Available Seats
+2. Book Tickets
+3. Cancel Booking
+4. View Booking Details
+5. View Statistics
+6. Exit
+
+Enter your choice: 5
+        THEATRE STATISTICS
+Theatre Statistics:
+------------------------
+Total Seats: 40
+Available Seats: 39
+Booked Seats: 1
+Occupancy Rate: 2.50%
+Total Bookings: 1
+Ticket Price: $10.0
+------------------------
+
+Current Bookings:
+Booking ID: BK0001 | Customer: vamshi | Seat: Row 5, Col 7 | Tickets: 1 | Total: $10.00
+
+           MAIN MENU
+1. View Available Seats
+2. Book Tickets
+3. Cancel Booking
+4. View Booking Details
+5. View Statistics
+6. Exit
+
+Enter your choice: 6
+
+Thank you for using Cinema Booking System!
+Have a great day!
